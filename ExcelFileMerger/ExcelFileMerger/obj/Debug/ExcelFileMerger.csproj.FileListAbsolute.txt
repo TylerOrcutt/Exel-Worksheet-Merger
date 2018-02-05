@@ -1,0 +1,11 @@
+C:\Users\Tyler.Orcutt\source\repos\ExcelFileMerger\ExcelFileMerger\bin\Debug\ExcelFileMerger.exe.config
+C:\Users\Tyler.Orcutt\source\repos\ExcelFileMerger\ExcelFileMerger\bin\Debug\ExcelFileMerger.exe
+C:\Users\Tyler.Orcutt\source\repos\ExcelFileMerger\ExcelFileMerger\bin\Debug\ExcelFileMerger.pdb
+C:\Users\Tyler.Orcutt\source\repos\ExcelFileMerger\ExcelFileMerger\obj\Debug\ExcelFileMerger.csprojResolveAssemblyReference.cache
+C:\Users\Tyler.Orcutt\source\repos\ExcelFileMerger\ExcelFileMerger\obj\Debug\ExcelFileMerger.Form1.resources
+C:\Users\Tyler.Orcutt\source\repos\ExcelFileMerger\ExcelFileMerger\obj\Debug\ExcelFileMerger.Properties.Resources.resources
+C:\Users\Tyler.Orcutt\source\repos\ExcelFileMerger\ExcelFileMerger\obj\Debug\ExcelFileMerger.csproj.GenerateResource.Cache
+C:\Users\Tyler.Orcutt\source\repos\ExcelFileMerger\ExcelFileMerger\obj\Debug\ExcelFileMerger.csproj.CoreCompileInputs.cache
+C:\Users\Tyler.Orcutt\source\repos\ExcelFileMerger\ExcelFileMerger\obj\Debug\ExcelFileMerger.exe
+C:\Users\Tyler.Orcutt\source\repos\ExcelFileMerger\ExcelFileMerger\obj\Debug\ExcelFileMerger.pdb
+C:\Users\Tyler.Orcutt\source\repos\ExcelFileMerger\ExcelFileMerger\obj\Debug\ExcelFileMerger.csproj.ResolveComReference.cache
